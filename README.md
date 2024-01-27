@@ -6,3 +6,5 @@ so you don't have to worry for counting blank,
 I also put some info for hashes and their digits just to make it easier to determine when you counting hashes.
 
 -Satan
+
+![image](https://github.com/KaitoDeluxxe/CharCounter/assets/150624897/820fd526-1441-42da-9dbf-f502a0b45d46)
