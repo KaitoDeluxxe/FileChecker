@@ -2,7 +2,7 @@ from colorama import Fore,Style
 
 def main():
     print(f"{Fore.LIGHTWHITE_EX}String and Hashes Calculator{Style.RESET_ALL}")
-    x = input(f"{Fore.BLUE}Enter String : {Style.RESET_ALL}")
+    x = input(f"{Fore.LIGHTWHITE_EX}Enter String : {Style.RESET_ALL}")
     res=len(x.strip(" "))
     print(f"{Fore.LIGHTGREEN_EX}{res}{Style.RESET_ALL}")
     hashes = {"MD5":32,"SHA1":40,"SHA224":56,"SHA256":64,"SHA384":96,"SHA512":128}
